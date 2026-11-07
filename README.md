@@ -6,7 +6,7 @@ Team: Tejaswini
 Event lo Safety kosam - SOS Button, Live GPS, Police Dashboard.
 
 ## Demo Video
-YouTube Link: (Nuvvu YouTube lo pettaka ikkada link pettu)
+Demo Video: https://youtu.be/f0CFMPRM4cY?si=ULGKbQjQNjOfg0Ck
 
 ## How to Run
 python app.py
